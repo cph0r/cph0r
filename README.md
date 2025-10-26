@@ -1,7 +1,3 @@
-Here’s your GitHub profile rewritten with wit, personality, and enough charm to make recruiters scroll instead of yawn. It keeps your structure but injects humor, hooks, and a bit of that “I-code-but-also-touch-grass” energy:
-
----
-
 # 💫 About Me
 
 👨‍💻 Currently moonlighting as a **Cloud + AI Engineer** (basically convincing servers to do my bidding).
